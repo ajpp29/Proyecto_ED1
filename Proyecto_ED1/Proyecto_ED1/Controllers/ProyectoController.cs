@@ -96,14 +96,14 @@ namespace Proyecto_ED1.Controllers
         }
 
         // GET: Proyecto/Create
-        public ActionResult Create()
+        public ActionResult CrearProducto()
         {
             return View();
         }
 
         // POST: Proyecto/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult CrearProducto(FormCollection collection)
         {
             try
             {

@@ -203,6 +203,7 @@
     <Content Include="Views\Proyecto\IndexUsuario.cshtml" />
     <Content Include="Views\Proyecto\IndexAdministrador.cshtml" />
     <Content Include="Views\Proyecto\CargaCatalogo.cshtml" />
+    <Content Include="Views\Proyecto\CrearProducto.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
